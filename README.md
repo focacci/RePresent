@@ -12,8 +12,8 @@ RePresent will be designed to be as plainly objective as possible. We will only
  representations of statistical data. 
 
 We will focus on providing data including (but not limited to):
-- Funding (source, quantity, date, etc)
-- Legislative bills (which they supported, cosponsored, wrote, voted on, etc)
-- The governmental body which they represent (demographic data, changes to 
+* Funding (source, quantity, date, etc)
+* Legislative bills (which they supported, cosponsored, wrote, voted on, etc)
+* The governmental body which they represent (demographic data, changes to 
     district borders, etc)
-- Locations of public appearances.
+* Locations of public appearances.
