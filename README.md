@@ -1,4 +1,5 @@
 # RePresent
+![RePresent Logo](https://github.com/focacci/RePresent/blob/main/img/logo_v0.1.jpg)
 
 ## Mission Statement
 RePresent's mission is to provide an intuitive interface through which
