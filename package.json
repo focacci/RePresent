@@ -1,0 +1,21 @@
+{
+  "name": "represent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cleanup": "find ./src -name '*.js' -type f -delete"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "fastify": "^4.27.0"
+  }
+}
